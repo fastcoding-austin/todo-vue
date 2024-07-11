@@ -17,7 +17,7 @@
       </li>
     </ul>
   </div>
-  <button @click="removeAllTodos">Xoá tất cả</button>
+  <button @click="removeAllTodos">Xoá tất cả !</button>
 
 </template>
 
